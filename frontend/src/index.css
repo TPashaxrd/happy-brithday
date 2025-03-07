@@ -1,0 +1,14 @@
+body {
+    -webkit-user-select: none;
+    user-select: none;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+::-webkit-scrollbar-thumb {
+    display: none;
+}
+::-webkit-scrollbar-track {
+    display: none;
+}

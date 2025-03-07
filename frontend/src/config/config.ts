@@ -1,7 +1,7 @@
 export const data = {
     name: "Ozan",
-    age: 16,
-    newAge: 17,
+    age: 21,
+    newAge: 22,
 
     wordOne: "Joyeux",
     wordTwo: "Anniversaire",
